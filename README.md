@@ -1,2 +1,2 @@
 # Oxide-Plugins
-Plugins using the Oxide API for Rust
+Just some random plugins that I've made for use on a friend's server.

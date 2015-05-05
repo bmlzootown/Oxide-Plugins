@@ -3,3 +3,4 @@
 * **/broadcast [message]** - Sends a message to everyone online.
 * **/cdrop** - Initiates an airdrop at the given coordinates.
 * **/pdrop** - Initiates an airdrop at the given player.
+* **/coords** - Shows the player their current coordinates.

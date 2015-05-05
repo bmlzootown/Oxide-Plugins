@@ -1,2 +1,2 @@
-[/rad] shows radiation toggle status. 
-[/rad (on/off)] toggles radiation on/off.
+* **/rad** - Shows radiation toggle status. 
+* **/rad (on/off)** - Toggles radiation on/off.
